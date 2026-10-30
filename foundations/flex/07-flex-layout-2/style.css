@@ -36,7 +36,7 @@ li {
 .footer {
   height: 72px;
   background: #eee;
-  color: darkmagenta;
+  color: rgb(154, 0, 154);
   display: flex;
   justify-content: center;
   align-items: center;
